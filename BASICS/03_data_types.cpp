@@ -9,7 +9,7 @@ char c='x';
 bool b=true;
 string s= "C++ is a programming language ";
 
-cout << "int: " << i << " (type: " << typeid(i).name() << ")" << endl;
+cout << "int: " << i << endl;
     cout << "float: " << f << endl;
     cout << "double: " << d << endl;
     cout << "char: " << c << endl;
