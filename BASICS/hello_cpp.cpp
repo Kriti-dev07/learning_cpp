@@ -1,5 +1,5 @@
 #include<iostream>
 int main (){
-std::count<<"Hello C++";
+std::cout<<"Hello C++";
 return 0;
 }
